@@ -1,1 +1,0 @@
-export const baseUrl="https://www.hotspotin.top/park/"
